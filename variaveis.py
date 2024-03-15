@@ -16,7 +16,8 @@
 # b = 'Sol'
 # print(isinstance(a, (int, float))) #quer dizer: a variavel "a" é do tipo int ou float 
 
-a = 40
-c = 3
-r = a * c
-print(r)
+# a = 40
+# c = 3
+# r = a * c
+# print(r)
+
