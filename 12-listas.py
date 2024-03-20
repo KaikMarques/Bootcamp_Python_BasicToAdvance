@@ -1,0 +1,1 @@
+https://www.youtube.com/watch?v=-VeVq64Fgw0&t=9626s parei em 3:25:38
