@@ -114,3 +114,12 @@ Explicação da empressão regular r'\b\d{2}:\d{2}:\d{2}\b':
 Em resumo, essa expressão regular está procurando por padrões que correspondem a uma sequência de dois dígitos, seguida por dois pontos, mais dois dígitos, outro dois pontos e finalmente mais dois dígitos, garantindo que estejam encapsulados por fronteiras de palavra. Essa sequência corresponde ao formato comum de tempo no formato HH:MM:SS.
 
 """
+
+## Diferentça de Parâmetro e Argumento
+
+
+A confusão entre parâmetros e argumentos é bem comum.  Em português, na definição de funções em Scala:
+
+ * Parâmetro: O parâmetro é um espaço reservado definido dentro da declaração da função. Ele especifica o tipo e nome dos dados que a função espera receber. No seu exemplo, x: Int e y: Int são os parâmetros. Eles informam à função que ela espera dois valores do tipo inteiro.
+ * Argumento: O argumento é o valor real que você fornece quando chama a função. Esses valores são passados para os parâmetros da função. Por exemplo, se você chamar somar(5, 3), então 5 e 3 são os argumentos sendo passados para os parâmetros x e y, respectivamente.
+Então, a lista de parâmetros define que tipo de dado a função pode manipular, enquanto os argumentos são os valores específicos que você fornece durante as chamadas da função.
