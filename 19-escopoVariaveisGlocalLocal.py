@@ -14,6 +14,7 @@ def escreve_texto():
     var_global = 'Banco de Dados com SQL' # agora, foi atribuido um novo valor para a mesma var, tanto a da func como a fora dela terá a mesma info
     var_local = "Kaik Xavevier"
     print(f'Variável Global: {var_global}')
+
     print(f'Variável Local: {var_local}')
 
 # Criando a rotina principal do programa
